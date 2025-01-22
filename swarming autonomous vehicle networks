@@ -1,0 +1,3 @@
+#Swarm Self-Driving with queue management systems
+
+In this paper, we propose an innovative priority-based queue management system for swarming autonomous vehicle networks. The system aims to improve network efficiency by optimizing the balance between server-side processing and local computing. The proposed algorithm dynamically assigns priorities and adjusts the queue in real-time based on the vehicles' ranking positions. The main features of the system include priority-based queue insertion, estimated processing time (ETA) prediction, and an adaptive processing decision mechanism. This allows for efficient processing of high-priority requests while providing local processing options for lower-priority requests.
