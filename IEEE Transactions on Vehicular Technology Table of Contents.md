@@ -1,33 +1,33 @@
 ## Deep_Reinforcement_Learning_Based_Resource_Allocation_for_V2V_Communications
 1. Introduction
-* V2V 통신의 중요성과 도전 과제 소개
-* 기존 연구의 한계점 지적
-* 본 논문의 주요 기여 제시
+   * V2V 통신의 중요성과 도전 과제 소개
+   * 기존 연구의 한계점 지적
+   * 본 논문의 주요 기여 제시
 
 2. System Model
-* V2V 통신을 위한 시스템 모델 설명
-* 성능 지표 정의 (SINR, 용량 등)
+   * V2V 통신을 위한 시스템 모델 설명
+   * 성능 지표 정의 (SINR, 용량 등)
 
 3. 핵심기술 설명 및 구현 방법
-* 강화학습 프레임워크 적용 방법 설명
-* 상태, 행동, 보상 함수 정의
-* Deep Q-Network 학습 방법 제시
+   * 강화학습 프레임워크 적용 방법 설명
+   * 상태, 행동, 보상 함수 정의
+   * Deep Q-Network 학습 방법 제시
 
 ## Socially Optimal Queuing Control in Cognitive Radio Networks Subject to Service Interruptions: To Queue or Not to Queue?
 1. Introduction
    
 2. System Model
-* 모델의 구성
+   * 모델의 구성
   
 3. 보조 고객의 최적 전략에 대해 논의
-* 대기열의 대한 통계 분석
-* 개별 최적 전략
+   * 대기열의 대한 통계 분석
+   * 개별 최적 전략
   
 4. 소셜 최적화를 위한 가격 책정
-* 각 세컨더리 고객에 대한 최적의 전략을 도출
+   * 각 세컨더리 고객에 대한 최적의 전략을 도출
 
 5. 가격 책정을 위한 학습
-* 실험
+   * 실험
 
 6. 실험 결과
 
