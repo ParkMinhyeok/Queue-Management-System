@@ -1,2 +1,1 @@
-# Queue-Management-System
-In this paper, we propose an innovative priority-based queue management system for swarming autonomous vehicle networks. The system aims to improve network efficiency by optimizing the balance between server-side processing and local computing. The proposed algorithm dynamically assigns priorities and adjusts the queue in real-time based on the vehicles' ranking positions.
+This git project was created to record the progress of writing the thesis and experiments.
