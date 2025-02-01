@@ -1,4 +1,5 @@
-keyword : Queue, ETA, Priority, Distribute-Inference
+## Keyword
+Queue, ETA, Priority, Distribute-Inference
 
 ETA, Priority를 기반으로 Queue에 있는 데이터 처리 중간 처리시 Distribute-Inference
 구현와 이론이 너무 복잡함..
@@ -9,7 +10,9 @@ Priority를 배제할 경우 가장 앞차가 사고날 활률이 높아짐 (99%
 Distribute-Inference를 어떻게 하면 효과적으로 상황을 만들 수 있을까
 아니면 Distribute-Inference를 앞 쪽 추론만 하는 것 -> 뒤쪽만 추론할 경우 구현 매우 복잡
 
-실험계획 : 
+## 실험 진행 
 로컬 추론이 성능 제약될 경우 원격으로 변경
 1. 라인트레이서 구현
 2. 추종 로봇 구현
+2.1. 멀티 추종 로봇 구현
+
