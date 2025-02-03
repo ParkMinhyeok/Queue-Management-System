@@ -24,4 +24,5 @@ Distribute-Inference를 어떻게 하면 효과적으로 상황을 만들 수 �
 3. Full remote
 
 ### 실험 맵
-...
+![image](https://github.com/user-attachments/assets/35e0d41e-1763-46eb-b582-fb9d0b2962d9)
+![image](https://github.com/user-attachments/assets/b26c7ac1-24ce-4019-8cf0-ef8e26269ddd)
