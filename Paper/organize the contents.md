@@ -15,11 +15,11 @@
 4. 우선 순위 있이 분할 처리(위 논문에서 제안)
 5. 풀 로컬 처리
 
+## 2015 A Tractable Model of the LTE Access Reservation Procedure for Machine-Type Communications
 **분할 처리를 위한 ETA 계산(3,4번)**
-* 2015 A Tractable Model of the LTE Access Reservation Procedure for Machine-Type Communications
 ![image](https://github.com/user-attachments/assets/e33cd193-6be9-4b1f-880d-088440c66b69)
 
-## LTE 모델과 연구 시스템 간의 매핑
+**TE 모델과 연구 시스템 간의 매핑**
 
 | **LTE 모델**                       | **연구 시스템**                          |
 |------------------------------------|------------------------------------------|
