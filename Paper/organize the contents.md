@@ -16,3 +16,15 @@
 5. 풀 로컬 처리
 
 **분할 처리를 위한 ETA 계산(3,4번)**
+* 2015 A Tractable Model of the LTE Access Reservation Procedure for Machine-Type Communications
+![image](https://github.com/user-attachments/assets/e33cd193-6be9-4b1f-880d-088440c66b69)
+
+# LTE 모델과 연구 시스템 간의 매핑
+
+| **LTE 모델**                       | **연구 시스템**                          |
+|------------------------------------|------------------------------------------|
+| 데이터 전송 성공 확률 ($1 - p_f$)   | 클라이언트 요청이 서버에서 처리될 가능성 |
+| 평균 전송 시도 횟수 ($N_{TX}$)     | 내 순서까지 ETA                          |
+| 백오프 시간 ($T_{backoff}$)        | 우선순위에 따른 대기 시간                |
+| 최대 재전송 횟수 ($m+1$)           | 서버 과부하 시 최대 허용 지연 시간        |
+
